@@ -1,8 +1,13 @@
 # Magic Calculator
 
 <hr>
+<h3> Preview</h3>
+<img src="./assets/Screenshot_1.png" width="100"/>
+<img src="./assets/Screenshot_2.png" width="100"/>
 
-<h>Comandos </h3>
+<hr>
+
+<h3>Comandos </h3>
 
 <ul>
     <li>
