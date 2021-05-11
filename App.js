@@ -243,8 +243,8 @@ export default function App() {
           />
         </TouchableOpacity>
         <View style={styles.containerResult}>
-          <Text style={styles.historyText}>{lastNumber}</Text>
-          <Text style={styles.resultText}>{currentNumber}</Text>
+          <Text style={styles.historyText} selectable={true}>{lastNumber}</Text>
+          <Text style={styles.resultText} selectable={true}>{currentNumber}</Text>
         </View>
       </View>
       <View style={styles.buttons}>
